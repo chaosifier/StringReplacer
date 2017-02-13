@@ -9,6 +9,7 @@ Features :
 - Replace strings in a folder recursively
 - Ignores most common media extensions by default
 - You can supply additional file extensions to ignore
+- Include file or folder names
 - Match case
 - Unchecking match case replaces occurrences of a string in 3 formats with the corresponding formats of the replace text.
   e.g. find and replace operation of "foo" with "bar" without Match Case will replace :
