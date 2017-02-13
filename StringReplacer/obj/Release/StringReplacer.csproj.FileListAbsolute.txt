@@ -1,0 +1,15 @@
+D:\ODrive\chaosifier@gmail.com\Visual Studio Projects\StringReplacer\StringReplacer\bin\Release\StringReplacer.exe.config
+D:\ODrive\chaosifier@gmail.com\Visual Studio Projects\StringReplacer\StringReplacer\obj\Release\Interop.SHDocVw.dll
+D:\ODrive\chaosifier@gmail.com\Visual Studio Projects\StringReplacer\StringReplacer\obj\Release\StringReplacer.csproj.ResolveComReference.cache
+D:\ODrive\chaosifier@gmail.com\Visual Studio Projects\StringReplacer\StringReplacer\bin\Release\StringReplacer.exe
+D:\ODrive\chaosifier@gmail.com\Visual Studio Projects\StringReplacer\StringReplacer\bin\Release\StringReplacer.pdb
+D:\ODrive\chaosifier@gmail.com\Visual Studio Projects\StringReplacer\StringReplacer\bin\Release\Microsoft.WindowsAPICodePack.dll
+D:\ODrive\chaosifier@gmail.com\Visual Studio Projects\StringReplacer\StringReplacer\bin\Release\Microsoft.WindowsAPICodePack.Shell.dll
+D:\ODrive\chaosifier@gmail.com\Visual Studio Projects\StringReplacer\StringReplacer\bin\Release\Microsoft.WindowsAPICodePack.xml
+D:\ODrive\chaosifier@gmail.com\Visual Studio Projects\StringReplacer\StringReplacer\bin\Release\Microsoft.WindowsAPICodePack.Shell.xml
+D:\ODrive\chaosifier@gmail.com\Visual Studio Projects\StringReplacer\StringReplacer\obj\Release\StringReplacer.Form1.resources
+D:\ODrive\chaosifier@gmail.com\Visual Studio Projects\StringReplacer\StringReplacer\obj\Release\StringReplacer.Properties.Resources.resources
+D:\ODrive\chaosifier@gmail.com\Visual Studio Projects\StringReplacer\StringReplacer\obj\Release\StringReplacer.csproj.GenerateResource.Cache
+D:\ODrive\chaosifier@gmail.com\Visual Studio Projects\StringReplacer\StringReplacer\obj\Release\StringReplacer.exe
+D:\ODrive\chaosifier@gmail.com\Visual Studio Projects\StringReplacer\StringReplacer\obj\Release\StringReplacer.pdb
+D:\ODrive\chaosifier@gmail.com\Visual Studio Projects\StringReplacer\StringReplacer\obj\Release\StringReplacer.csprojResolveAssemblyReference.cache
