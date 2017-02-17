@@ -18,4 +18,4 @@ Features :
   foo with bar  
   
 
-<a href="https://github.com/chaosifier/StringReplacer/blob/master/StringReplacer/bin/Release/StringReplacer.exe"><h1>Download Executable</h1></a>
+<a href="https://github.com/chaosifier/StringReplacer/raw/master/StringReplacer/bin/Release/StringReplacer.exe"><h1>Download Executable</h1></a>
