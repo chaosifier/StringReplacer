@@ -1,17 +1,17 @@
 # StringReplacer
-Windows (WinForms) application to replace a string with another inside in a file or files in a directory. This utility can also replace strings in file or directory names.
+Windows (WinForms) application to replace a string with another inside in a file or multiple files in a directory. This utility can also replace strings in file or directory names.
 
 <img src="https://github.com/chaosifier/StringReplacer/blob/master/StringReplacer/StringReplacerSnapshot.JPG" alt="App Screenshot"/>
 
 Features :
 - Replace strings in a single file
-- Replace strings in a folder / directory
+- Replace strings in all files in a directory including file/directory names
 - Replace strings in a folder recursively
 - Ignores most common media extensions by default
-- You can supply additional file extensions to ignore
-- Include file or folder names
-- Match case
-- Unchecking match case replaces occurrences of a string in 3 formats with the corresponding formats of the replace text.
+- Option to supply additional file extensions to ignore
+- Option to include or ignore file and folder names
+- Option to Match case while replacing
+- Smart case matching which replaces occurrences of a string with the closest matching format.
   e.g. find and replace operation of "foo" with "bar" without Match Case will replace :
   Foo with Bar,
   FOO with BAR, and
