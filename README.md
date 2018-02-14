@@ -1,5 +1,5 @@
 # StringReplacer
-Windows (WinForms) application to replace a string with another inside in a file or multiple files in a directory. This utility can also replace strings in file or directory names.
+Windows (WinForms) application to replace a string with another inside a file or multiple files in a directory. This utility can also replace strings in file or directory names.
 
 <img src="https://github.com/chaosifier/StringReplacer/blob/master/StringReplacer/StringReplacerSnapshot.JPG" alt="App Screenshot"/>
 
